@@ -1,0 +1,9 @@
+.UserOutput p{
+    border: 1px solid #eee;
+    width:30%;
+    box-shadow: 3px 2px #ccc;
+    margin: 10px auto;
+    padding: 5px;
+    color: green;
+    font-size: 20px;
+}
