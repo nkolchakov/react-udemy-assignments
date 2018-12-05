@@ -1,5 +1,5 @@
 ## Assignment 1
-###The instructions are:
+#### The instructions are:
 
 1. Create TWO new components: UserInput and UserOutput
 2. UserInput should hold an input element, UserOutput two paragraphs
